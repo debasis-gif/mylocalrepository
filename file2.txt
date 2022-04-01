@@ -2,3 +2,4 @@ This is the second file
 We are learning to push this changes from 
 my local repository to 
 the GITHUB repository
+We are now making some changes in "file2.txt" on Linux AWS instance
